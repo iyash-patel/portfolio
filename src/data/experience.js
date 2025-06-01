@@ -1,5 +1,5 @@
-import nirvanLogo from "@/assets/exp_logo/NirvanInfotech.png";
-import internshalaLogo from "@/assets/exp_logo/internshala.jpg";
+import nirvanLogo from "../assets/exp_logo/NirvanInfotech.png";
+import internshalaLogo from "../assets/exp_logo/internshala.jpg";
 
 
 export const Experiences = [
