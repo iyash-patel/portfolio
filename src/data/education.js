@@ -1,4 +1,4 @@
-import charusatLogo from "@/assets/edu_logo/charusat_logo.png";
+import charusatLogo from "../assets/edu_logo/charusat_logo.png";
 
 export const educationData = [
    {
