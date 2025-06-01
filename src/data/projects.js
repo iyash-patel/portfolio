@@ -1,6 +1,6 @@
-import kissanplus from "@/assets/projects/kissanplus.jpg";
-import lifestylestore from "@/assets/projects/lifestylestore.png";
-import URM from "@/assets/projects/Universityresourcemanagement.png";
+import kissanplus from "../assets/projects/kissanplus.jpg";
+import lifestylestore from "../assets/projects/lifestylestore.png";
+import URM from "../assets/projects/Universityresourcemanagement.PNG";
 
 export const Project = [
   {
