@@ -1,12 +1,12 @@
-import kcg from "@/assets/certificates/KCG.jpg";
-import git from "@/assets/certificates/git_github.jpg";
-import react from "@/assets/certificates/reactjs.jpg";
-import webdevelopment from "@/assets/certificates/cert_webdevelopment.png";
-import java from "@/assets/certificates/java.jpg";
-import nsdc from "@/assets/certificates/cert_webdevelopment_nsdc.jpg";
-import bootstrap from "@/assets/certificates/Bootstrap.jpg";
-import mongodb from "@/assets/certificates/cert_mongodb.png";
-import javascript from "@/assets/certificates/javascript.jpg";
+import kcg from "../assets/certificates/KCG.jpg";
+import git from "../assets/certificates/git_github.jpg";
+import react from "../assets/certificates/reactjs.jpg";
+import webdevelopment from "../assets/certificates/cert_webdevelopment.PNG";
+import java from "../assets/certificates/java.jpg";
+import nsdc from "../assets/certificates/cert_webdevelopment_nsdc.jpg";
+import bootstrap from "../assets/certificates/Bootstrap.jpg";
+import mongodb from "../assets/certificates/cert_mongodb.PNG";
+import javascript from "../assets/certificates/javascript.jpg";
 
 export const certificationsData = [
   {
