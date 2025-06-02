@@ -98,15 +98,16 @@ function Hero() {
           </div>
 
           {/* Image */}
-          <div className="relative w-full max-w-md mx-auto md:mx-0">
-            <div className="transition-all duration-500 ease-in-out group-hover:bg-gray-200 group-hover:shadow-lg group-hover:rounded-2xl p-1">
-              <img
-                src="/Founder.jpg"
-                alt="Yash Patel"
-                className="w-full h-auto max-h-[450px] object-contain rounded-2xl transition-all duration-500 ease-in-out"
-              />
+          <div className="relative pl-20 pr-6 sm:pl-6 md:px-0">
+            <div className="relative w-full max-w-xs mt-4 mb-10 ml-auto">
+              <div className="ml-auto mt-8 w-80 h-80 sm:w-96 sm:h-96 rounded-full overflow-hidden transition-all duration-500 ease-in-out hover:scale-105">
+                <img
+                  src="public/YashPhoto.jpeg"
+                  alt="Yash Patel"
+                  className="w-full h-full object-cover object-center"
+                />
+              </div>
             </div>
-            <div className="absolute bottom-0 left-0 w-full h-6 bg-gradient-to-b from-transparent via-gray-100 to-white pointer-events-none"></div>
           </div>
         </div>
       </div>
