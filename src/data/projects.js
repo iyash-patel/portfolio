@@ -1,15 +1,16 @@
 import kissanplus from "../assets/projects/kissanplus.jpg";
 import lifestylestore from "../assets/projects/lifestylestore.png";
 import URM from "../assets/projects/Universityresourcemanagement.PNG";
+import portfolio from "../assets/projects/Portfolio_img.PNG";
 
 export const Project = [
-  {
+   {
     id: "portfolio_website",
     title: "Portfolio Website",
     description: "A personal portfolio website built with React, showcasing my skills, projects, and experience. It features a responsive design, smooth animations, and a user-friendly interface.",
-    image: "public/projects/lightning-time/lightning-time.jpg",
-    github: "https://github.com/Achyut21/achyut-portfolio",
-    liveUrl: "https://www.achyutkatiyar.com/",
+    image: portfolio,
+    github: "https://github.com/iyash-patel/portfolio",
+    liveUrl: "https://portfolio-omega-red-60.vercel.app/",
   },
   {
     id: "kissanplus",
