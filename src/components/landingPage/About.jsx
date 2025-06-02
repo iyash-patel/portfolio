@@ -54,7 +54,7 @@ function About() {
 
             <div className="flex justify-center md:justify-start">
               <a
-                href="/public/Documents/Yash Patel Resume.pdf"
+                href="/Documents/yash_patel_resume.pdf"
                 download
                 className="inline-flex items-center gap-2 px-6 py-3 text-black border-2 border-black rounded-full hover:bg-black hover:text-white transition-all duration-300"
               >
