@@ -102,7 +102,7 @@ function Hero() {
             <div className="relative w-full max-w-xs mt-4 mb-10 ml-auto">
               <div className="ml-auto mt-8 w-80 h-80 sm:w-96 sm:h-96 rounded-full overflow-hidden transition-all duration-500 ease-in-out hover:scale-105">
                 <img
-                  src="public/YashPhoto.jpeg"
+                  src="/YashPhoto.jpeg"
                   alt="Yash Patel"
                   className="w-full h-full object-cover object-center"
                 />
